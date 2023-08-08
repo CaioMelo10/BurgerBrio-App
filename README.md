@@ -1,11 +1,10 @@
-# BurgerBasket App
+# BurgerBrio App
 
-O BurgerBasket App é um aplicativo móvel desenvolvido em React Native.
+O BurgerBrio App é um aplicativo móvel desenvolvido em React Native.
 
 ## Capturas de Tela
 
 <img src="./assets/ex1.jpg" >
-<img src="./assets/ex2.jpg" >
 
 ## Tecnologias Utilizadas
 
